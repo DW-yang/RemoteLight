@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteLight</string>
+    <string name="current_brightness">"当前亮度: "</string>
+</resources>
