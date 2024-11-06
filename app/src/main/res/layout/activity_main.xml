@@ -29,7 +29,7 @@
             android:id="@+id/brightness"
             android:layout_width="355dp"
             android:layout_height="33dp"
-            android:max="100" />
+            android:max="255" />
 
         <TextView
             android:id="@+id/current_brightness"
